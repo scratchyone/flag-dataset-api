@@ -1,0 +1,1 @@
+ALTER TABLE Flags DROP COLUMN Timestamp;

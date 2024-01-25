@@ -1,0 +1,8 @@
+name = "flag-dataset"
+main = "src/index.ts"
+compatibility_date = "2022-11-18"
+
+[[d1_databases]]
+binding = "DB"                                       # i.e. available in your Worker on env.DB
+database_name = "flag-dataset"
+database_id = "aef38f2f-0de0-4980-a08d-85b007043592"
