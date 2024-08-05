@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "uuid": "^9.0.0",
-    "wrangler": "^2.4.2"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/uuid": "^8.3.4",
